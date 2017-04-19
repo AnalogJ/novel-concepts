@@ -61,6 +61,17 @@
 - [ntfy](https://github.com/dschep/ntfy) - A utility for sending notifications, on demand and when commands finish.
 - [notary](https://github.com/docker/notary) - Docker project that allows anyone to have trust over arbitrary collections of data
 - [cfssl](https://github.com/cloudflare/cfssl) - Cloudflare's PKI and TLS toolkit 
-
-
-
+- [wal-e](https://github.com/wal-e/wal-e) - Continuous Archiving for Postgres
+- [st2](https://github.com/StackStorm/st2) -  "IFTTT for Ops") is event-driven automation commonly used for auto-remediation, security responses, facilitated troubleshooting, complex deployments, and more. 
+- [arrayfire](https://github.com/arrayfire/arrayfire) - ArrayFire: a general purpose GPU library.
+- [infraKIT](https://github.com/docker/infrakit) - A toolkit for creating and managing declarative, self-healing infrastructure.
+- [bittorrent BEP46](http://www.bittorrent.org/beps/bep_0046.html) - Updating Torrents Via DHT Mutable Items
+- [snapcraft](https://snapcraft.io/) - Package any app for every Linux desktop, server, cloud or device, and deliver updates directly.
+- [conda](https://github.com/conda/conda) - Conda is a cross-platform, language-agnostic binary package manager. 
+- [gitfs](https://github.com/PressLabs/gitfs) - gitfs is a FUSE file system that fully integrates with git.
+- [torrent-mount](https://github.com/mafintosh/torrent-mount) - Mount a torrent (or magnet link) as a filesystem in real time using torrent-stream and fuse
+- [bless](https://github.com/Netflix/bless) - BLESS is an SSH Certificate Authority that runs as an AWS Lambda function and is used to sign SSH public keys.
+- [webhook](https://github.com/adnanh/webhook) - lightweight configurable tool written in Go, that allows you to easily create HTTP endpoints (hooks) on your server, which you can use to execute configured commands. 
+- [pkgcloud](https://github.com/pkgcloud/pkgcloud) - library for node.js that abstracts away differences among multiple cloud providers.
+- [flatpack](http://flatpak.org/) - Flatpak is a system for building, distributing and running sandboxed desktop applications on Linux.
+- [bipio](https://github.com/bipio-server/bipio) - A nodejs based web automation framework that runs 'bips'. A Bip is a web automation agent. A Bip can connect many different web services and perform useful work
