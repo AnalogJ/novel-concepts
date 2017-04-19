@@ -45,9 +45,22 @@
 - [Quine Relay](https://github.com/mame/quine-relay) - A quine is a non-empty computer program which takes no input and produces a copy of its own source code as its only output.
 - [rclone](https://github.com/ncw/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
 - [lovefield](https://github.com/google/lovefield) - Client-side relational database for web apps. 
-
-
-
+- [bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication
+- [Joi](https://github.com/hapijs/joi) - Object schema validation in Javascript
+- [Linguist](https://github.com/github/linguist) - Detect blob languages, ignore binary or vendored files, suppress generated files in diffs, and generate language breakdown graphs.
+- [explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
+- [PeerJS](https://github.com/peers/peerjs) - Peer-to-peer data in the browser
+- [localtunnel](https://github.com/localtunnel/localtunnel) - exposes your localhost to the world for easy testing and sharing! No need to mess with DNS or deploy just to have others test out your changes.
+- [pen](https://github.com/sofish/pen) - live editing w/markdown
+- [Annyang](https://github.com/TalAter/annyang) - Speech recognition for your site
+- [Felony](https://github.com/henryboldi/felony) - pgp keychain built on the modern web with Electron, React, and Redux
+- [noVNC](https://github.com/novnc/noVNC) - VNC client using HTML5 (Web Sockets, Canvas) with encryption (wss://) support.
+- [SVG logos](https://github.com/gilbarbara/logos) - A huge collection of SVG logos
+- [js-git](https://github.com/creationix/js-git) - A JavaScript implementation of Git
+- [psd.rb](https://github.com/layervault/psd.rb) - Parse Photoshop files in Ruby with ease
+- [ntfy](https://github.com/dschep/ntfy) - A utility for sending notifications, on demand and when commands finish.
+- [notary](https://github.com/docker/notary) - Docker project that allows anyone to have trust over arbitrary collections of data
+- [cfssl](https://github.com/cloudflare/cfssl) - Cloudflare's PKI and TLS toolkit 
 
 
 
