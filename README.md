@@ -7,9 +7,10 @@
 ## List - Uncategorized
 
 
-- [Moby Project](https://mobyproject.org/) - Way to package Docker engine & containers as a minimal bootable OS.
-- [LinuxKit](https://github.com/linuxkit/linuxkit) - toolkit for building custom minimal, immutable Linux distributions on any architecture. 
-- [Flatpack](https://github.com/flatpak/flatpak) - Flatpak is a system for building, distributing and running sandboxed desktop applications on Linux.
+* [Moby Project](https://mobyproject.org/) - Way to package Docker engine & containers as a minimal bootable OS.
+* [LinuxKit](https://github.com/linuxkit/linuxkit) - toolkit for building custom minimal, immutable Linux distributions on any architecture. 
+* [Flatpack](https://github.com/flatpak/flatpak) - Flatpak is a system for building, distributing and running sandboxed desktop applications on Linux.
+
 
 - [Electron](https://github.com/electron/electron) - Build cross platform desktop apps with JavaScript, HTML, and CSS
 - [NWJS](https://nwjs.io/) - Write Application using Html & Css
