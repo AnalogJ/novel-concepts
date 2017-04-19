@@ -7,11 +7,9 @@
 ## List - Uncategorized
 
 
-* [Moby Project](https://mobyproject.org/) - Way to package Docker engine & containers as a minimal bootable OS.
-* [LinuxKit](https://github.com/linuxkit/linuxkit) - toolkit for building custom minimal, immutable Linux distributions on any architecture. 
-* [Flatpack](https://github.com/flatpak/flatpak) - Flatpak is a system for building, distributing and running sandboxed desktop applications on Linux.
-
-
+- [Moby Project](https://mobyproject.org/) - Way to package Docker engine & containers as a minimal bootable OS.
+- [LinuxKit](https://github.com/linuxkit/linuxkit) - toolkit for building custom minimal, immutable Linux distributions on any architecture. 
+- [Flatpack](https://github.com/flatpak/flatpak) - Flatpak is a system for building, distributing and running sandboxed desktop applications on Linux.
 - [Electron](https://github.com/electron/electron) - Build cross platform desktop apps with JavaScript, HTML, and CSS
 - [NWJS](https://nwjs.io/) - Write Application using Html & Css
 - [Meteor](https://github.com/meteor/meteor) - Meteor is an ultra-simple environment for building modern web applications.
@@ -44,6 +42,9 @@
 - [Packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [Bazel](https://github.com/bazelbuild/bazel) - Bazel is a build tool that builds code quickly and reliably. It is used to build the majority of Google's software
 - [BotKit](https://github.com/howdyai/botkit) - Botkit is designed to ease the process of designing and running useful, creative bots that live inside messaging platforms.
+- [Quine Relay](https://github.com/mame/quine-relay) - A quine is a non-empty computer program which takes no input and produces a copy of its own source code as its only output.
+- [rclone](https://github.com/ncw/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
+- [lovefield](https://github.com/google/lovefield) - Client-side relational database for web apps. 
 
 
 
