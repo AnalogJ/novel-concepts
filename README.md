@@ -75,3 +75,10 @@
 - [pkgcloud](https://github.com/pkgcloud/pkgcloud) - library for node.js that abstracts away differences among multiple cloud providers.
 - [flatpack](http://flatpak.org/) - Flatpak is a system for building, distributing and running sandboxed desktop applications on Linux.
 - [bipio](https://github.com/bipio-server/bipio) - A nodejs based web automation framework that runs 'bips'. A Bip is a web automation agent. A Bip can connect many different web services and perform useful work
+- [tipboard](https://github.com/allegro/tipboard) - Tipboard is a system for creating dashboards, written in JavaScript and Python.
+- [sops](https://github.com/mozilla/sops) - sops is an editor of encrypted files that supports YAML, JSON and BINARY formats and encrypts with AWS KMS and PGP.
+- [torrent-peek](https://github.com/lmatteis/torrent-peek) - Distributed search engines using BitTorrent and SQLite
+- [Rancher VM](https://github.com/rancher/vm) - Package and Run Virtual Machines as Docker Containers
+- [fwknop](https://github.com/mrash/fwknop) - Single Packet Authorization > Port Knocking
+- [mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
+
