@@ -87,6 +87,9 @@
 - [bloomfilters](https://github.com/dsummersl/bloomfilters) - A Bloom filter is a data structure designed to tell you, rapidly and memory-efficiently, whether an element is present in a set. 
 - [localstack](https://github.com/atlassian/localstack) - A fully functional local AWS cloud stack. Develop and test your cloud apps offline!
 - [teleport](https://github.com/gravitational/teleport) - Modern SSH server for clusters and teams. 
+- [youtube-dl](https://github.com/rg3/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
+- [magnetico](https://github.com/boramalper/magnetico) - Autonomous (self-hosted) BitTorrent DHT search engine suite.
+- [js-xlsx](https://github.com/SheetJS/js-xlsx) - Parser and writer for various spreadsheet formats. Pure-JS cleanroom implementation from official specifications, related documents, and test files.
 
 
 
