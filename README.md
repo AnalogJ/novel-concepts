@@ -81,4 +81,12 @@
 - [Rancher VM](https://github.com/rancher/vm) - Package and Run Virtual Machines as Docker Containers
 - [fwknop](https://github.com/mrash/fwknop) - Single Packet Authorization > Port Knocking
 - [mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
+- [vtt.js](https://github.com/mozilla/vtt.js) - A JavaScript implementation of the WebVTT specification
+- [airswarm](https://github.com/mafintosh/airswarm) - Network swarm that automagically discovers other peers on the network using multicast dns
+- [solve](https://github.com/berkshelf/solve) - A Dependency graph constraint solver for Ruby
+- [bloomfilters](https://github.com/dsummersl/bloomfilters) - A Bloom filter is a data structure designed to tell you, rapidly and memory-efficiently, whether an element is present in a set. 
+- [localstack](https://github.com/atlassian/localstack) - A fully functional local AWS cloud stack. Develop and test your cloud apps offline!
+- [teleport](https://github.com/gravitational/teleport) - Modern SSH server for clusters and teams. 
+
+
 
