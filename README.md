@@ -90,6 +90,6 @@
 - [youtube-dl](https://github.com/rg3/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [magnetico](https://github.com/boramalper/magnetico) - Autonomous (self-hosted) BitTorrent DHT search engine suite.
 - [js-xlsx](https://github.com/SheetJS/js-xlsx) - Parser and writer for various spreadsheet formats. Pure-JS cleanroom implementation from official specifications, related documents, and test files.
-
-
+- [libp2p]
+- [Generative adversarial networks](https://en.wikipedia.org/wiki/Generative_adversarial_networks)
 
